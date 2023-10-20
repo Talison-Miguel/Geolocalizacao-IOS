@@ -56,7 +56,7 @@ Velocímetro e bússola baseados em geolocalização, só funciona no IOS, usand
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Detecao-De-Fala.git
+  ❯ git clone https://github.com/Talison-Miguel/Geolocalizacao-IOS.git
 ```
 
 ---
